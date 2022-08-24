@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ProyectoInicial">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-2PFS1IO:Bernardo">
+          <Created>2022-07-26T10:25:17.6057276-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2PFS1IO</Server>
+          <UserName>Bernardo</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DESKTOP-2PFS1IO:Fac">
+          <Created>2022-07-27T12:49:03.908612-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2PFS1IO</Server>
+          <UserName>Fac</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DESKTOP-2PFS1IO:Jose">
+          <Created>2022-07-26T12:28:22.5802989-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2PFS1IO</Server>
+          <UserName>Jose</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DESKTOP-2PFS1IO:sa">
+          <Created>2022-01-25T18:17:05.436548-06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2PFS1IO</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Backup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Backup2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Backup2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Clausulas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Clausulas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Comandos-IN-SEL-DEL-UP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Comandos-IN-SEL-DEL-UP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CrearRolCodigo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CrearRolCodigo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Esquemas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Esquemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EstructurasDeControl.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>EstructurasDeControl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FuncionesConversionTexto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FuncionesConversionTexto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FuncionesEscalares.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FuncionesEscalares.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FuncionesTabla.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FuncionesTabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funcion-FechaATexto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Funcion-FechaATexto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertarExcel.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>InsertarExcel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOB_CancelaTurnosVencidos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JOB_CancelaTurnosVencidos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOINS y Union entre tablas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JOINS y Union entre tablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="NotasDatoDATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>NotasDatoDATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operadores.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Operadores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Practica3_SP_SELECT_UPDATE_DELETE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Practica3_SP_SELECT_UPDATE_DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PruebaPermisoInsert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>PruebaPermisoInsert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sentencias-15.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Sentencias-15.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Adicionales-HELP-HELPTEXT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_Adicionales-HELP-HELPTEXT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_AltaEspecialidad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_AltaEspecialidad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_AltaMedico.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_AltaMedico.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_AltaPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_AltaPaciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL JOB-Info.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQL JOB-Info.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TablasTemporales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TablasTemporales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TablasTemporalesImplementacion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TablasTemporalesImplementacion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Transacciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Transacciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VIEW_MedicosEspecialidades.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:Jose</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>Jose</AssociatedConnUserName>
+          <FullPath>VIEW_MedicosEspecialidades.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vistas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2PFS1IO:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2PFS1IO</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Vistas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

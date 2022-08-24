@@ -1,0 +1,5 @@
+SELECT * FROM Turno
+SELECT * FROM TurnoEstado
+-- SELECT * FROM Turno WHERE CONVERT(CHAR(8), fechaTurno, 112)<CONVERT(CHAR(8), GETDATE(), 112) AND estado = 0 
+UPDATE Turno SET estado = 2
+WHERE CONVERT(CHAR(8), fechaTurno, 112)<CONVERT(CHAR(8), GETDATE(), 112) AND estado = 0 
